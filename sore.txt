@@ -1,0 +1,1 @@
+gerador de texto 'lorem' a partir da quantidade de paragrafo desejado
